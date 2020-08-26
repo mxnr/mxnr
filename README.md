@@ -1,6 +1,6 @@
 # Hola, I'm [Dmitry Semenov!](https://mxnr.net) 👋
 
-[![Website](https://img.shields.io/website?label=mxnr.net&style=for-the-badge&url=https://mxnr.net)](https://mxnr.net)
+[![Website](https://img.shields.io/website?label=mxnr.net&style=for-the-badge&url=https://mxnr.net)](🌍https://mxnr.net)
 
 ## Fun staff
 - 💬 Ask me about AWS or any tech related stuff.
