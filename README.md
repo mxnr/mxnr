@@ -33,21 +33,3 @@
 </a>
 
 
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="mxnr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mxnr&show_icons=true&hide_border=true" />
-
-</details>
-
-
