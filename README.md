@@ -49,4 +49,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnr&show_icons=true&theme=light&line_height=27" alt="Dmitry's github stats"/>
 </a>
 
+<br/>
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnr&label=👀&color=lightgrey&style=flat-square" alt="iampawan" /> </p>
+
 
