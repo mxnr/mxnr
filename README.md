@@ -1,6 +1,6 @@
 # Hola, I'm [Dmitry Semenov!](https://mxnr.net) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnr&label=Views&color=blue&style=plastic" alt="mxnr" /> </p>
+[![Website](https://img.shields.io/website?label=mxnr.net&style=for-the-badge&url=https%3A%2F%mxnr.net)](https://mxnr.net)
 
 ## Fun staff
 - 💬 Ask me about AWS or any tech related stuff.
