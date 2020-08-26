@@ -52,6 +52,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnr&label=👀&color=lightgrey&style=flat-square" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnr&label=👀&color=blue&style=flat-square" alt="iampawan" /> </p>
 
 
