@@ -1,6 +1,7 @@
 # Hola, I'm [Dmitry Semenov!](https://mxnr.net) 👋
 
-[![Website](https://img.shields.io/website?label=🌍mxnr.net&style=for-the-badge&url=https://mxnr.net)](https://mxnr.net)
+[![Website](https://img.shields.io/website?label=🌍mxnr.net&style=for-the-badge&url=https://mxnr.net)](https://mxnr.net) [![Hire me](https://img.shields.io/website?label=Hire%20me&style=for-the-badge&logo=upwork&url=https://www.upwork.com/freelancers/~010ad1a2700f974ab6)](https://www.upwork.com/freelancers/~010ad1a2700f974ab6)
+
 
 ## Fun staff
 - 💬 Ask me about AWS, Upwork or any tech related stuff.
