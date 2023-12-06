@@ -1,6 +1,6 @@
 # Hola, I'm [Dmitry Semenov!](https://mxnr.net) 👋
 
-[![Website](https://img.shields.io/website?label=🌍mxnr.net&style=for-the-badge&url=https://mxnr.net)](https://mxnr.net) ![Hire me](https://img.shields.io/badge/hire-me-green?style=for-the-badge&logo=upwork&color=%236FDA44&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~010ad1a2700f974ab6)
+[![Website](https://img.shields.io/website?label=🌍mxnr.net&style=for-the-badge&url=https://mxnr.net)](https://mxnr.net) [![Hire me](https://img.shields.io/badge/hire-me-green?style=for-the-badge&logo=upwork&color=%236FDA44&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~010ad1a2700f974ab6)](https://www.upwork.com/freelancers/~010ad1a2700f974ab6)
 
 
 
