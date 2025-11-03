@@ -41,16 +41,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </p>
 <br/>
 <br/>
-
-## Stats:
-
-<a href="https://github.com/mxnr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnr&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/mxnr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnr&show_icons=true&theme=light&line_height=27" alt="Dmitry's github stats"/>
-</a>
-
 <br/>
 <br/>
 
