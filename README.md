@@ -1,49 +1,33 @@
-# Hola, I'm [Dmitry Semenov!](https://mxnr.net) 👋
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/console-mobile.svg">
+  <img src="./assets/console.svg" alt="Dmitry Siemenov — mxnr. A portrait rendered in ASCII, inside a builder’s console. Product-minded engineering, from interface to infrastructure." width="100%">
+</picture>
 
-[![Website](https://img.shields.io/website?label=🌍mxnr.net&style=for-the-badge&url=https://mxnr.net)](https://mxnr.net) [![Hire me](https://img.shields.io/badge/hire-me-green?style=for-the-badge&logo=upwork&color=%236FDA44&link=https%3A%2F%2Fwww.upwork.com%2Ffreelancers%2F~010ad1a2700f974ab6)](https://www.upwork.com/freelancers/~010ad1a2700f974ab6)
-
-
-
-## Fun staff
-- 💬 Ask me about AWS, Upwork or any tech related stuff.
-
-## Connect with me:
-
-<a href="https://linkedin.com/in/mxnrl">
-  <img align="left" alt="Dmitry's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mxnr">
-  <img align="left" alt="Dmitry's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<br/>
-<br/>
-
-## Languages and Tools:
-<p>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Perl" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="JavaScript" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p align="center">
+  <a href="https://mxnr.net">Writing & talks</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mxnrl/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://mxnr.net/contacts/">Get in touch</a>
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnr&label=👀&color=blue&style=flat-square" alt="iampawan" /> </p>
+## Building things people can use.
 
+I'm **Dmitry Siemenov**. I build web products from the first interface to the systems that keep them running. I like clear UX, readable code, fast applications, and understanding what happens when things fail.
+
+### The build rhythm
+
+![A skyline generated from mxnr's public GitHub contribution calendar. Each building is a week; windows reflect daily activity intensity, not a measure of productivity.](./assets/activity.svg)
+
+<sub>Generated daily from the public profile calendar. Contributions include more than commits; activity is not a measure of impact. [How this works](./MAINTENANCE.md).</sub>
+
+### Tools, not an identity
+
+`Rust` · `JavaScript` · `PostgreSQL` · `PHP / Symfony` · `AWS` · `Linux` · `Nginx` · `Cloudflare`
+
+I care about the details in a form as much as the transaction behind it. Simple interfaces, explicit data flows, and infrastructure you can recover—not just deploy.
+
+### A few things I've shared
+
+- [Writing & conference talks](https://mxnr.net) — architecture, Symfony, AWS, and lessons from building software.
+- [gource-multiple](https://github.com/mxnr/gource-multiple) — visualize the history of multiple repositories with Gource.
+- [gs-export](https://github.com/mxnr/gs-export) — bulk-import CSV files into Google Sheets, including Korean text.
 
