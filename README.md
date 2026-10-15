@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/console-mobile.svg">
-  <img src="./assets/console.svg" alt="Dmitry Siemenov — mxnr. An animated ASCII portrait inside a builder’s console. AI-augmented engineering, from intent to verified software." width="100%">
+  <img src="./assets/console.svg" alt="Dmitry Siemenov — mxnr. An animated ASCII portrait inside a builder’s console. Software engineer. Human in the loop." width="100%">
 </picture>
 
 <p align="center">
@@ -9,20 +9,11 @@
   <a href="https://mxnr.net/contacts/">Get in touch</a>
 </p>
 
-## Human intent. Agent leverage. Working software.
+## Hi, I'm Dmitry 👋
 
-I'm **Dmitry Siemenov**, a software engineer working at the intersection of product, systems, and AI-assisted development. I use coding agents throughout the engineering loop—from exploring unfamiliar code to implementation, testing, security review, and deployment.
+I build software, chase slow queries, and have opinions about buttons.
 
-I bring the context, constraints, and judgment. Agents help me explore more options and iterate faster. Tests, browser checks, and measurements tell us whether the result holds up.
-
-### AI in the engineering loop
-
-- **Give agents useful context.** Clear tasks, repository instructions, architectural boundaries, and explicit acceptance criteria.
-- **Build a feedback loop.** Implement, inspect the diff, run integration tests, exercise the UI, and feed failures back into the next iteration.
-- **Go looking for failure.** Adversarial inputs, authorization checks, upload validation, and performance measurements—not just a happy-path demo.
-- **Carry it through to operations.** CI/CD, background jobs, observability, backups, and restore drills belong in the same conversation as the code.
-
-I'm especially interested in agent workflows that stay understandable: scoped permissions, reviewable changes, reproducible checks, and evidence before confidence.
+AI coding agents are part of my toolkit. So are tests, a debugger, and a healthy distrust of “it should work now.”
 
 ### The build rhythm
 

@@ -74,14 +74,14 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 <text x="0" y="0" fill="#ccfa73" font-size="16" >$ whoami</text>
 <text x="0" y="61" fill="#edf3ee" font-size="47" font-weight="700">Dmitry</text>
 <text x="0" y="115" fill="#edf3ee" font-size="47" font-weight="700">Siemenov.</text>
-<text x="0" y="152" fill="#76d9e3" font-size="15" >@mxnr / AI-augmented engineering</text>
+<text x="0" y="152" fill="#76d9e3" font-size="15" >@mxnr / human in the loop</text>
 <path d="M0 179H460" stroke="#293b48"/>
 <text x="0" y="218" fill="#95aab5" font-size="12" >WORKFLOW</text>
-<text x="0" y="241" fill="#edf3ee" font-size="14" >Human intent → agents → verified code</text>
+<text x="0" y="241" fill="#edf3ee" font-size="14" >Ask → build → test → ask better</text>
 <text x="0" y="257" fill="#95aab5" font-size="12" >STACK</text>
 <text x="0" y="280" fill="#edf3ee" font-size="14" >Rust / JavaScript / PostgreSQL</text>
 <text x="0" y="296" fill="#95aab5" font-size="12" >FOCUS</text>
 <text x="0" y="319" fill="#edf3ee" font-size="14" >Architecture · security · UX</text>
 <text x="0" y="366" fill="#ccfa73" font-size="17" >$ ship something useful_</text>
-</g><text x="32" y="1102" fill="#95aab5" font-size="12" >HUMAN JUDGMENT. AGENT LEVERAGE.</text>
+</g><text x="32" y="1102" fill="#95aab5" font-size="12" >YES, I READ THE DIFF.</text>
 </svg>

@@ -69,9 +69,9 @@ def portrait(x, y, rows):
 
 
 def identity(x, y, mobile=False):
-    parts = [f'<g transform="translate({x} {y})" class="reveal">', text(0, 0, "$ whoami", 16, LIME), text(0, 61, "Dmitry", 47, WHITE, 'font-weight="700"'), text(0, 115, "Siemenov.", 47, WHITE, 'font-weight="700"'), text(0, 152, "@mxnr / AI-augmented engineering", 15, CYAN)]
+    parts = [f'<g transform="translate({x} {y})" class="reveal">', text(0, 0, "$ whoami", 16, LIME), text(0, 61, "Dmitry", 47, WHITE, 'font-weight="700"'), text(0, 115, "Siemenov.", 47, WHITE, 'font-weight="700"'), text(0, 152, "@mxnr / human in the loop", 15, CYAN)]
     parts += [f'<path d="M0 179H{460 if mobile else 610}" stroke="{LINE}"/>']
-    for offset, label, value in [(218,"WORKFLOW", "Human intent → agents → verified code"), (257,"STACK", "Rust / JavaScript / PostgreSQL"), (296,"FOCUS", "Architecture · security · UX")]:
+    for offset, label, value in [(218,"WORKFLOW", "Ask → build → test → ask better"), (257,"STACK", "Rust / JavaScript / PostgreSQL"), (296,"FOCUS", "Architecture · security · UX")]:
         parts += [text(0, offset, label, 12, MUTED), text(0 if mobile else 80, offset+23 if mobile else offset, value, 14, WHITE)]
     parts += [text(0, 366 if mobile else 352, "$ ship something useful_", 17, LIME), "</g>"]
     return "\n".join(parts)
@@ -86,7 +86,7 @@ def console(rows, mobile=False):
     body += text(32,104,"EXPLORE → BUILD → VERIFY → SHIP",13,LIME)
     body += portrait(85 if mobile else 32, 133, rows)
     body += identity(70 if mobile else 510, 678 if mobile else 181, mobile)
-    body += text(32,h-28,"HUMAN JUDGMENT. AGENT LEVERAGE.",12,MUTED)
+    body += text(32,h-28,"YES, I READ THE DIFF.",12,MUTED)
     return svg(w,h,"Dmitry Siemenov — builder’s console",body)
 
 
