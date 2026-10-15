@@ -8,7 +8,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 @media(prefers-reduced-motion:reduce){.reveal,.portrait-row{animation:none}}
 </style>
 <rect width="600" height="1130" rx="20" fill="#0d141b"/>
-<path d="M0 59H600" stroke="#293b48"/><circle cx="28" cy="30" r="5" fill="#ff826c"/><circle cx="48" cy="30" r="5" fill="#f6cb75"/><circle cx="68" cy="30" r="5" fill="#ccfa73"/><text x="94" y="35" fill="#95aab5" font-size="14" >mxnr / builder’s console</text><text x="32" y="104" fill="#ccfa73" font-size="13" >BOOT → BUILD → SHIP → REPEAT</text><g transform="translate(85 133)">
+<path d="M0 59H600" stroke="#293b48"/><circle cx="28" cy="30" r="5" fill="#ff826c"/><circle cx="48" cy="30" r="5" fill="#f6cb75"/><circle cx="68" cy="30" r="5" fill="#ccfa73"/><text x="94" y="35" fill="#95aab5" font-size="14" >mxnr / builder’s console</text><text x="32" y="104" fill="#ccfa73" font-size="13" >EXPLORE → BUILD → VERIFY → SHIP</text><g transform="translate(85 133)">
 <rect width="430" height="486" rx="12" fill="#121e28" stroke="#293b48"/>
 <text x="20" y="29" fill="#95aab5" font-size="13" >portrait.render()</text>
 <text x="20" y="54.0" fill="#76d9e3" font-size="7.9" class="portrait-row" style="--delay:0.000s" xml:space="preserve" textLength="390" lengthAdjust="spacingAndGlyphs">                                                                              </text>
@@ -74,14 +74,14 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 <text x="0" y="0" fill="#ccfa73" font-size="16" >$ whoami</text>
 <text x="0" y="61" fill="#edf3ee" font-size="47" font-weight="700">Dmitry</text>
 <text x="0" y="115" fill="#edf3ee" font-size="47" font-weight="700">Siemenov.</text>
-<text x="0" y="152" fill="#76d9e3" font-size="15" >@mxnr / product-minded engineer</text>
+<text x="0" y="152" fill="#76d9e3" font-size="15" >@mxnr / AI-augmented engineering</text>
 <path d="M0 179H460" stroke="#293b48"/>
-<text x="0" y="218" fill="#95aab5" font-size="12" >BUILD</text>
-<text x="0" y="241" fill="#edf3ee" font-size="14" >Interfaces → systems → operations</text>
+<text x="0" y="218" fill="#95aab5" font-size="12" >WORKFLOW</text>
+<text x="0" y="241" fill="#edf3ee" font-size="14" >Human intent → agents → verified code</text>
 <text x="0" y="257" fill="#95aab5" font-size="12" >STACK</text>
 <text x="0" y="280" fill="#edf3ee" font-size="14" >Rust / JavaScript / PostgreSQL</text>
 <text x="0" y="296" fill="#95aab5" font-size="12" >FOCUS</text>
-<text x="0" y="319" fill="#edf3ee" font-size="14" >UX · performance · reliability</text>
+<text x="0" y="319" fill="#edf3ee" font-size="14" >Architecture · security · UX</text>
 <text x="0" y="366" fill="#ccfa73" font-size="17" >$ ship something useful_</text>
-</g><text x="32" y="1102" fill="#95aab5" font-size="12" >LESS CEREMONY. MORE CRAFT.</text>
+</g><text x="32" y="1102" fill="#95aab5" font-size="12" >HUMAN JUDGMENT. AGENT LEVERAGE.</text>
 </svg>

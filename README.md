@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/console-mobile.svg">
-  <img src="./assets/console.svg" alt="Dmitry Siemenov — mxnr. A portrait rendered in ASCII, inside a builder’s console. Product-minded engineering, from interface to infrastructure." width="100%">
+  <img src="./assets/console.svg" alt="Dmitry Siemenov — mxnr. An animated ASCII portrait inside a builder’s console. AI-augmented engineering, from intent to verified software." width="100%">
 </picture>
 
 <p align="center">
@@ -9,9 +9,20 @@
   <a href="https://mxnr.net/contacts/">Get in touch</a>
 </p>
 
-## Building things people can use.
+## Human intent. Agent leverage. Working software.
 
-I'm **Dmitry Siemenov**. I build web products from the first interface to the systems that keep them running. I like clear UX, readable code, fast applications, and understanding what happens when things fail.
+I'm **Dmitry Siemenov**, a software engineer working at the intersection of product, systems, and AI-assisted development. I use coding agents throughout the engineering loop—from exploring unfamiliar code to implementation, testing, security review, and deployment.
+
+I bring the context, constraints, and judgment. Agents help me explore more options and iterate faster. Tests, browser checks, and measurements tell us whether the result holds up.
+
+### AI in the engineering loop
+
+- **Give agents useful context.** Clear tasks, repository instructions, architectural boundaries, and explicit acceptance criteria.
+- **Build a feedback loop.** Implement, inspect the diff, run integration tests, exercise the UI, and feed failures back into the next iteration.
+- **Go looking for failure.** Adversarial inputs, authorization checks, upload validation, and performance measurements—not just a happy-path demo.
+- **Carry it through to operations.** CI/CD, background jobs, observability, backups, and restore drills belong in the same conversation as the code.
+
+I'm especially interested in agent workflows that stay understandable: scoped permissions, reviewable changes, reproducible checks, and evidence before confidence.
 
 ### The build rhythm
 
@@ -23,7 +34,7 @@ I'm **Dmitry Siemenov**. I build web products from the first interface to the sy
 
 `Rust` · `JavaScript` · `PostgreSQL` · `PHP / Symfony` · `AWS` · `Linux` · `Nginx` · `Cloudflare`
 
-I care about the details in a form as much as the transaction behind it. Simple interfaces, explicit data flows, and infrastructure you can recover—not just deploy.
+I care about the details in a form as much as the transaction behind it. The goal is still clear UX, readable code, fast applications, and systems you can recover when something goes wrong.
 
 ### A few things I've shared
 
